@@ -5,25 +5,19 @@ android multi-selectable flowlayout tags 支持单选、多选标签布局  流�
 
 效果equel：
 
-![creenshot_152268248](/Users/avengong/Desktop/Screenshot_1522682480.png)
-
-
+![Alt text](https://github.com/Avengong/LabelFlowLayout/raw/master/pictures/equel.png
 
 居左效果：
 
-![creenshot_152268277](/Users/avengong/Desktop/Screenshot_1522682779.png)
-
-
+![Alt text](https://github.com/Avengong/LabelFlowLayout/raw/master/pictures/left.png
 
 居中效果：
 
-![creenshot_152268285](/Users/avengong/Desktop/Screenshot_1522682855.png)
-
-
+![Alt text](https://github.com/Avengong/LabelFlowLayout/raw/master/pictures/center.png
 
 居右效果：
 
-![creenshot_152268303](/Users/avengong/Desktop/Screenshot_1522683039.png)
+![Alt text](https://github.com/Avengong/LabelFlowLayout/raw/master/pictures/right.png
 
 
 
