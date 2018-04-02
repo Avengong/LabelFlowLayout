@@ -195,7 +195,7 @@ public class FlowLayout extends ViewGroup {
                     break;
 
                 case GRAVITY_RIGHT:
-                    left = getMeasuredWidth() - line.lineWidth ;
+                    left = getMeasuredWidth() - line.lineWidth -getPaddingRight();
                     break;
                 case GRAVITY_CENTER:
                     left = (getMeasuredWidth() - line.lineWidth) / 2 ;
